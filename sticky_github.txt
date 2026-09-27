@@ -1,1 +1,1 @@
-https://github.com/Mashanze/django-sticky-notes.git
+https://github.com/Mashanze/django-sticky-notes-part1.git
